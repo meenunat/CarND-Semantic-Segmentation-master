@@ -42,9 +42,9 @@ For this project, pretrained VGG16 model is being used. Input image dataset is f
 
 The spatial information is retained by deconvoluting the model. 
 
-![](images/vgg16.png)
-![](images/fcn_1.png)
-![](images/fcn.jpg)
+![](models/vgg16.png)
+![](models/fcn_1.png)
+![](models/fcn.jpg)
 
 ### Refernces
 https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
