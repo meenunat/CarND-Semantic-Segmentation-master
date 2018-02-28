@@ -5,13 +5,14 @@ In this project, the pixels of a road in images are labeled using a Fully Convol
 
 ## Objective: <a name="objective"></a>
 
-In this project, NVDIA GTX 1060 TI graphics card used for training. There are number of hyper parameters, epochs, batch sizes, learning rates, and dropouts and here are the optimal parameters are found as follow:
+In this project, NVDIA GTX 1060 TI graphics card used for training. There are number of hyper parameters, epochs, batch sizes, learning rates, and dropouts. Following are the optimal parameters being used:
+
     -Epochs: 25
     -Batch Size: 8
     -Learning rate: 0.0001
     -Dropouts: 0.2
 
-## Results <a name="results">
+## Results 
 
 The following images of the output of the results of Fully Convolutional Network for Semantic Segmentation:
 
@@ -46,7 +47,9 @@ For this project, pretrained VGG16 model is being used. Input image dataset is f
 The spatial information is retained by deconvoluting the model. 
 
 ![](models/vgg16.png)
+
 ![](models/fcn_1.png)
+
 ![](models/fcn.jpg)
 
 ### Refernces
