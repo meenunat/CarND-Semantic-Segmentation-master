@@ -15,10 +15,13 @@ In this project, NVDIA GTX 1060 TI graphics card used for training. There are nu
 
 The following images of the output of the results of Fully Convolutional Network for Semantic Segmentation:
 
-![](runs/um_000065.png)
-![](runs/um_000032.png)
-![](runs/um_000095.png)
+![](runs/um_000028.png)
 
+![](runs/um_000063.png)
+
+![](runs/um_000015.png)
+
+![](runs/um_000090.png)
 
 ### Setup
 ##### Frameworks and Packages
