@@ -17,7 +17,7 @@ The following images of the output of the results of Fully Convolutional Network
 
 ![](runs/um_000065.png)
 ![](runs/um_000032.png)
-![](runs/um_000098.png)
+![](runs/um_000095.png)
 
 
 ### Setup
